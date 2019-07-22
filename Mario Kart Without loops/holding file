@@ -1,0 +1,15 @@
+
+} else if (SpinValue < 0.) {
+        console.log('')
+        num ++;
+        document.getElementById('').innerHTML = num;
+        document.getElementById('outputHere').innerHTML += '<img src="images/">';
+    }
+
+
+
+
+
+
+
+
